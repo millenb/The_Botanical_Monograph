@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Serif:700");
+
+
+.dream-part {
+    position: absolute;
+    width: 887px;
+    height: 234px;
+    left: 277px;
+    top: 243px;
+    color: black;
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 76px;
+}
+
+.part2-link1 {
+    position: absolute;
+    height: 120px;
+    width: 366px;
+    left: 306px;
+    top: 681px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 24px;
+}
+
+.part2-link1-box1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 404px;
+    height: 182px;
+    left: 282px;
+    top: 662px;
+    background: rgba(217, 217, 217, 0.72);
+    border: 1px solid #000000;
+}
+
+.part2-link2 {
+    position: absolute;
+    width: 221px; 
+    height: 342px;
+    left: 919px;
+    top: 585px;
+    bottom: px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 24px;
+}
+
+.part2-link2-box2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 272px;
+    height: 372px;
+    left: 886px;
+    top: 570px;
+    bottom:82px;
+    background: rgba(217, 217, 217, 0.72);
+    border: 1px solid #000000;
+}
+
+.part1-link1 {
+    position: absolute;
+    width: 198px;
+    height: 218px;
+    left: 419px;
+    top: 585px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.part1-link1-box1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 220px;
+    height: 242px;
+    left: 408px;
+    top: 573px;
+    background: rgba(217, 217, 217, 0.72);
+    border: 1px solid #000000;
+}
+
+.part1-link2 {
+    position: absolute;
+    width: 198px;
+    height: 218px;
+    left: 823px;
+    top: 585px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.part1-link2-box2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 220px;
+    height: 242px;
+    left: 812px;
+    top: 573px;
+    background: rgba(217, 217, 217, 0.72);
+    border: 1px solid #000000;
+}
+
+.next-button {
+    position: absolute;
+    width: 90px;
+    height: 50px;
+    left: 1260px;
+    top: 487px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.previous-button {
+    position: absolute;
+    width: 151px;
+    height: 50px;
+    left: 90px;
+    top: 487px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.part3-link {
+    position: absolute;
+    width: 331px;
+    height: 199px;
+    left: 554px;
+    top: 655px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 24x;
+    color: #000000;
+}
+
+.part3-link-box {
+    box-sizing: border-box;
+    position: absolute;
+    width: 378px;
+    height: 228px;
+    left: 531px;
+    top: 642px;
+    background: rgba(217, 217, 217, 0.72);
+    border: 1px solid #000000;
+}
+
+.dream-part1-box {
+    position: absolute;
+    width: 948px;
+    height: 232px;
+    left: 236px;
+    top: 214px;
+    background: rgba(24, 108, 32, 0.78);
+}
+
+.dream-part2-box {
+    position: absolute;
+    width: 967px;
+    height: 274px;
+    left: 202px;
+    top: 238px;
+    background: rgba(24, 108, 32, 0.78);
+}
+
+.dream-part3-box {
+    position: absolute;
+    width: 948px;
+    height: 358px;
+    left: 257px;
+    top: 231px;
+    background: rgba(24, 108, 32, 0.78);
+}
